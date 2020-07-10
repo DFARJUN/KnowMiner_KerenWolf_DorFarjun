@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <idCounter>4</idCounter>
+  <student id="1" isPass="false">
+    <name>Raz Romni</name>
+    <grades math="55" english="77" />
+  </student>
+  <student id="2" isPass="true">
+    <name>Rona Lee</name>
+    <grades math="77" english="88" />
+  </student>
+  <student id="3" isPass="true">
+    <name>Dana Dvorin</name>
+    <grades math="70" english="75" />
+  </student>
+  <student id="4" isPass="false">
+    <name>Moshe Ivgi</name>
+    <grades math="90" english="42" />
+  </student>
+  <student id="5" isPass="false">
+    <name>test test</name>
+    <grades math="50" english="42" />
+  </student>
+</students>

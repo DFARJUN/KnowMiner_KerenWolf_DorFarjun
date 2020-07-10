@@ -1,0 +1,72 @@
+﻿<!doctype html>
+<html lang="he">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>שם המשחק</title>
+    <meta name="description" content="name of game" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="names" />
+    <link rel="shortcut icon" href="styles/logo.png" type="image/x-icon">
+    <link rel="icon" href="styles/logo.png" type="image/x-icon">
+    <!-- CSS -->
+
+    <link href="styles/myStyle.css" rel="stylesheet" />
+    <!-- Scripts -->
+    <!--jQuery library-->
+    <script src="jScripts/jquery-1.12.0.min.js"></script>
+    <!--הקוד שמפעיל את תפריט הניווט-->
+    <script src="jScripts/myScript.js"></script>
+
+</head>
+
+<body>
+    <div id="container">
+        <header>
+            <!--קישור לדף עצמו כדי להתחיל את המשחק מחדש בלחיצה על הלוגו-->
+            <a href="indextest.html">
+                <img id="logo" src="" /> <!--הלוגו של המשחק שלכם-->
+                <p>שם המשחק שלכם</p>
+            </a>
+            <!--תפריט הניווט בראש העמוד-->
+            <nav>
+                <ul>
+                    <!--  -->
+                    <li><a class="about">אודות</a></li>
+                    <li><a class="howToPlay">איך משחקים?</a></li>
+                    <li><a href="login.aspx">עריכת המשחק</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="aboutDiv" class="popUp bounceInDown hide">
+            <a class="closeAbout">X</a>
+            <h4>
+                משחק כורה המידע
+                <br /> <br />
+                פרויקט משולש, תש"ף
+            </h4>
+            <a href="http://www.hit.ac.il/telem/overview" target="_blank">המחלקה לטכנולוגיות למידה</a>
+
+            <h5>צוות המשחק: קרן וולף ודור פרג'ון</h5>
+
+            <p>
+                <br />
+                <a href="http://www.hit.ac.il" target="_blank" title="אתר המכון" role="link">
+                    <img src="Styles/hit_logo.png" alt="לוגו H.I.T" class="logoHit" />
+                </a>
+            </p>
+        </div>
+        <div id="howToPlayDiv" class="popUp bounceInDown hide">
+            <a class="closeHowToPlay">X</a>
+            <img id="hotoplay" src="styles/hotoplay.png" />
+        </div>
+
+        <div id="gameArea" class="">
+            <!--src = הקישור של דף המשחק שלכם (לא קובץ האנימייט)-->
+            <iframe id="gameIframe" src="knowminer.html" frameBorder="0" allowfullscreen="">Browser not compatible.</iframe>
+        </div>
+    </div>
+</body>
+
+</html>

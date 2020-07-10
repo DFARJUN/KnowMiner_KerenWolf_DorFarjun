@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<admin code="dorf">
+		<name>Dor Farjun</name>
+	</admin>
+	<admin code="kerenw">
+		<name>Keren Wolff</name>
+	</admin>
+	<admin code="orenba‏">
+		<name>Oren Ben-Aharon‏</name>
+	</admin>
+	<admin code="noharrf">
+		<name>Nohar Raz Fogel</name>
+	</admin>
+	<admin code="dancw">
+		<name>Dan Cohen Wax</name>
+	</admin>
+  <admin code="talk">
+		<name>Tal Klien</name>
+	</admin>
+  <admin code="reutt">
+		<name>Dan Cohen Wax</name>
+	</admin>
+</RootTree>

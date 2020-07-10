@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RootTree>
+  <idCounter>207</idCounter>
+  
+  <game GameCode="101" timePerQuest="30" isPublish="True" protected="true">
+    <GameSubject>%d7%aa%d7%a0%22%d7%9a</GameSubject>
+    <questions Quantity="4">
+      <question id="1">
+        <questionText>מי היו ילדיו של נוח?</questionText>
+        <img>noah.jpg</img>
+        <answers>
+          <answer feedback="true" AnsType="text">שם</answer>
+          <answer feedback="true" AnsType="text">חם</answer>
+          <answer feedback="true" AnsType="text">יפת</answer>
+          <answer feedback="false" AnsType="text">יונתן</answer>
+          <answer feedback="false" AnsType="text">יששכר</answer>
+          <answer feedback="false" AnsType="text">אבשלום</answer>
+        </answers>
+      </question>
+      <question id="2">
+        <questionText>אילו חיות מוזכרות בתנך?</questionText>
+        <img>
+        </img>
+        <answers>
+          <answer feedback="true" AnsType="text">לויתן</answer>
+          <answer feedback="true" AnsType="text">יונה</answer>
+          <answer feedback="false" AnsType="image">monkey.png</answer>
+        </answers>
+      </question>
+      <question id="3">
+        <questionText>מהן ההתרחשויות בתקופת כהונתו של שלמה המלך?</questionText>
+        <img>
+        </img>
+        <answers>
+          <answer feedback="true" AnsType="image">mishpat.png</answer>
+          <answer feedback="false" AnsType="text">בניית בית שלישי</answer>
+          <answer feedback="true" AnsType="text">נישואים לאלף נשים</answer>
+          <answer feedback="false" AnsType="text">מלחמות עם האצטקים</answer>
+        </answers>
+      </question>
+      <question id="4">
+        <questionText>מי הם הנביאים בתורה?</questionText>
+        <img />
+        <answers>
+          <answer feedback="false" AnsType="text">שלמה</answer>
+          <answer feedback="false" AnsType="text">אחאב</answer>
+          <answer feedback="false" AnsType="text">איזבל</answer>
+          <answer feedback="true" AnsType="text">אליהו</answer>
+          <answer feedback="true" AnsType="text">דבורה</answer>
+        </answers>
+      </question>
+    </questions>
+  </game>
+  <game GameCode="102" timePerQuest="ללא הגבלה" isPublish="False" protected="true">
+    <GameSubject>יונקים</GameSubject>
+    <questions Quantity="4">
+      <question id="1">
+        <questionText>מי הם היונקים?</questionText>
+        <img />
+        <answers>
+          <answer feedback="true" AnsType="text">קוף</answer>
+          <answer feedback="true" AnsType="image">panda.png</answer>
+          <answer feedback="true" AnsType="text">קנגרו</answer>
+          <answer feedback="false" AnsType="text">יונה</answer>
+        </answers>
+      </question>
+      <question id="2">
+        <questionText>מהם המאפיינים של היונקים?</questionText>
+        <img />
+        <answers>
+          <answer feedback="false" AnsType="text">אוזניים קטנות</answer>
+          <answer feedback="false" AnsType="text">אוכלים רק מן הצומח</answer>
+          <answer feedback="true" AnsType="text">תלויים בחלב אימם</answer>
+          <answer feedback="false" AnsType="text">ישנים שנת חורף</answer>
+        </answers>
+      </question>
+      <question id="3">
+        <questionText>מאילו מאכלים ניזונים החיות בתמונה</questionText>
+        <img>cow_elefent.png</img>
+        <answers>
+          <answer feedback="true" AnsType="image">Wheat.png</answer>
+          <answer feedback="true" AnsType="text">ענפים</answer>
+          <answer feedback="true" AnsType="text">עלים</answer>
+          <answer feedback="false" AnsType="image">meat.png</answer>
+          <answer feedback="false" AnsType="image">Reptiles.png</answer>
+        </answers>
+      </question>
+      <question id="4">
+        <questionText>מי הם יונקי השלייה?</questionText>
+        <img />
+        <answers>
+          <answer feedback="false" AnsType="text">קנגרו</answer>
+          <answer feedback="false" AnsType="text">צפרדע</answer>
+          <answer feedback="true" AnsType="image">fox.jpg</answer>
+          <answer feedback="true" AnsType="image">elefent.jpg</answer>
+          <answer feedback="true" AnsType="text">מכרסמים</answer>
+        </answers>
+      </question>
+    </questions>
+  </game>
+</RootTree>

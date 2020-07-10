@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RootTree>
+  <idCounter>238</idCounter>
+  <childcounter>49</childcounter>
+  <teachernote>%d7%9e%d7%a9%d7%97%d7%a7+%d7%a2%d7%9c+%d7%94%d7%a9%d7%99%d7%a2%d7%95%d7%a8+%d7%91%d7%97%d7%a9%d7%91%d7%95%d7%9f+%d7%9c%d7%9b%d7%99%d7%aa%d7%95%d7%aa+%d7%95%27%0d%0a%d7%9e%d7%93%d7%a2%d7%99%d7%9d+%d7%9c%d7%9b%d7%99%d7%aa%d7%95%d7%aa+%d7%94%27%0d%0a%d7%a4%d7%99%d7%96%d7%99%d7%a7%d7%94+%d7%9c%d7%9b%d7%99%d7%aa%d7%95%d7%aa+%d7%99%d7%91%27%0d%0a%d7%9c%d7%90+%d7%a8%d7%95%d7%a6%d7%94+%d7%a2%d7%95%d7%93+%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d</teachernote>
+  <game GameCode="101" timePerQuest="unlimited" isPublish="False" protected="true">
+    <GameSubject>%d7%aa%d7%a0%d7%9a</GameSubject>
+    <questions Quantity="5">
+      <question id="1">
+        <questionText>sfdhfds</questionText>
+        <img />
+        <answers>
+          <answer feedback="False" AnsType="text">fsdh</answer>
+          <answer feedback="False" AnsType="text">fsdh</answer>
+          <answer feedback="True" AnsType="text">fsdh</answer>
+        </answers>
+      </question>
+      <question id="2">
+        <questionText>dfsh</questionText>
+        <img />
+        <answers>
+          <answer feedback="False" AnsType="text">dfsh</answer>
+          <answer feedback="False" AnsType="text">fsdh</answer>
+          <answer feedback="False" AnsType="text">dfsh</answer>
+          <answer feedback="True" AnsType="text">fsdh</answer>
+        </answers>
+      </question>
+      <question id="3">
+        <questionText>dsag</questionText>
+        <img />
+        <answers>
+          <answer feedback="False" AnsType="text">dsag</answer>
+          <answer feedback="True" AnsType="text">dsag</answer>
+          <answer feedback="True" AnsType="text">%d7%92%d7%93%d7%a9%d7%a2</answer>
+          <answer feedback="True" AnsType="text">%d7%92%d7%93%d7%a2</answer>
+          <answer feedback="True" AnsType="text">%d7%92%d7%93%d7%a9%d7%a2</answer>
+          <answer feedback="False" AnsType="text">%d7%a9%d7%93%d7%92%d7%a2</answer>
+        </answers>
+      </question>
+      <question id="4">
+        <questionText>%d7%9e%d7%94+%d7%94%d7%99%d7%95+%d7%99%d7%9c%d7%93%d7%99%d7%95+%d7%a9%d7%9c+%d7%a0%d7%97%3f+%d7%9b%d7%a9%d7%9c%d7%90+%d7%9e%d7%97%d7%a9%d7%99%d7%91%d7%99%d7%9d+%d7%90%d7%aa+%d7%94%d7%99%d7%9c%d7%93%d7%99%d7%9d+%d7%a9%d7%9c%d7%90+%d7%94%d7%99%d7%95+%d7%9c%d7%90+%d7%91%d7%90%d7%9e%d7%aa+%d7%95%d7%a1%d7%aa%d7%9d+%d7%97%d7%95%d7%a9%d7%91%d7%99%d7%9d+%d7%a9%d7%94%d7%9d+%d7%94%d7%99%d7%95+%d7%9c%d7%90+%d7%9c%d7%9e%d7%a7%d7%a8%d7%95%d7%aa+%d7%a9%d7%9e%d7%9e%d7%a9+%d7%9c%d7%90</questionText>
+        <img>uploadedFiles/thisuplod29_06_20-20_56_081.png</img>
+        <answers>
+          <answer feedback="True" AnsType="text">%d7%a0%d7%97+%d7%94%d7%9e%d7%97%d7%9c+%d7%aa%d7%a9%d7%95%d7%91%d7%94+%d7%a0%d7%9b%d7%95%d7%a0%d7%94+%d7%9e%d7%9e%d7%a9+%d7%9e%d7%9e%d7%a9+%d7%9e%d7%9e%d7%a9+%d7%9e%d7%9e%d7%a9+%d7%9e%d7%9e%d7%a9</answer>
+          <answer feedback="True" AnsType="text">2%d7%a0%d7%97</answer>
+          <answer feedback="True" AnsType="text">3%d7%a0%d7%97</answer>
+          <answer feedback="True" AnsType="text">4%d7%a0%d7%97</answer>
+          <answer feedback="True" AnsType="text">5%d7%a0%d7%97</answer>
+          <answer feedback="True" AnsType="text">6%d7%a0%d7%97</answer>
+          <answer feedback="False" AnsType="picture">/uploadedFiles/thisuplod29_06_20-20_42_078.png</answer>
+        </answers>
+      </question>
+      <question id="5">
+        <questionText>dfgs</questionText>
+        <img>
+        </img>
+        <answers>
+          <answer feedback="False" AnsType="text">fdshs</answer>
+          <answer feedback="False" AnsType="text">fdsh</answer>
+          <answer feedback="False" AnsType="text">h</answer>
+          <answer feedback="False" AnsType="text">jhl</answer>
+        </answers>
+      </question>
+    </questions>
+  </game>
+  <game GameCode="102" timePerQuest="ללא הגבלה" isPublish="False" protected="true">
+    <GameSubject>%d7%99%d7%95%d7%a0%d7%a7%d7%99%d7%9d</GameSubject>
+    <questions Quantity="3">
+      <question id="1">
+        <questionText>%d7%9e%d7%94%d7%9d+%d7%94%d7%9e%d7%90%d7%a4%d7%99%d7%99%d7%a0%d7%99%d7%9d+%d7%a9%d7%9c+%d7%94%d7%99%d7%95%d7%a0%d7%a7%d7%99%d7%9d%3f</questionText>
+        <img />
+        <answers>
+          <answer feedback="False" AnsType="text">%d7%90%d7%95%d7%96%d7%a0%d7%99%d7%99%d7%9d+%d7%a7%d7%98%d7%a0%d7%95%d7%aa</answer>
+          <answer feedback="False" AnsType="text">%d7%90%d7%95%d7%9b%d7%9c%d7%99%d7%9d+%d7%a8%d7%a7+%d7%9e%d7%9f+%d7%94%d7%a6%d7%95%d7%9e%d7%97</answer>
+          <answer feedback="True" AnsType="text">%d7%aa%d7%9c%d7%95%d7%99%d7%99%d7%9d+%d7%91%d7%97%d7%9c%d7%91+%d7%90%d7%99%d7%9e%d7%9d</answer>
+          <answer feedback="False" AnsType="text">%d7%99%d7%a9%d7%a0%d7%99%d7%9d+%d7%a9%d7%a0%d7%aa+%d7%97%d7%95%d7%a8%d7%a3</answer>
+        </answers>
+      </question>
+      <question id="2">
+        <questionText>%d7%9e%d7%90%d7%99%d7%9c%d7%95+%d7%9e%d7%90%d7%9b%d7%9c%d7%99%d7%9d+%d7%a0%d7%99%d7%96%d7%95%d7%a0%d7%99%d7%9d+%d7%94%d7%97%d7%99%d7%95%d7%aa+%d7%91%d7%aa%d7%9e%d7%95%d7%a0%d7%94</questionText>
+        <img>
+        </img>
+        <answers>
+          <answer feedback="True" AnsType="text">%d7%a2%d7%a0%d7%a4%d7%99%d7%9d</answer>
+          <answer feedback="True" AnsType="text">%d7%a2%d7%9c%d7%99%d7%9d</answer>
+        </answers>
+      </question>
+      <question id="3">
+        <questionText>%d7%9e%d7%99+%d7%94%d7%9d+%d7%99%d7%95%d7%a0%d7%a7%d7%99+%d7%94%d7%a9%d7%9c%d7%99%d7%99%d7%94%3f</questionText>
+        <img />
+        <answers>
+          <answer feedback="False" AnsType="text">%d7%a7%d7%a0%d7%92%d7%a8%d7%95</answer>
+          <answer feedback="False" AnsType="text">%d7%a6%d7%a4%d7%a8%d7%93%d7%a2</answer>
+          <answer feedback="True" AnsType="text">%d7%9e%d7%9b%d7%a8%d7%a1%d7%9e%d7%99%d7%9d</answer>
+        </answers>
+      </question>
+    </questions>
+  </game>
+</RootTree>
